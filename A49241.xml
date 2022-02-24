@@ -1,0 +1,821 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the Honourable House of Commons, at St. Margaret's Westminster, on the 30th of January, 1696/7 by William Lancaster ...</title>
+            <author>Lancaster, William, 1650-1717.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49241</idno>
+            <idno type="STC">Wing L315</idno>
+            <idno type="STC">ESTC R6275</idno>
+            <idno type="EEBO-CITATION">13088675</idno>
+            <idno type="OCLC">ocm 13088675</idno>
+            <idno type="VID">97331</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49241)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97331)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 744:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the Honourable House of Commons, at St. Margaret's Westminster, on the 30th of January, 1696/7 by William Lancaster ...</title>
+                  <author>Lancaster, William, 1650-1717.</author>
+               </titleStmt>
+               <extent>[3], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Walter Kettilby ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Marginal notes.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Lamentations V, 16 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license_to_print">
+            <pb facs="tcp:97331:1"/>
+            <opener>
+               <dateline>
+                  <date>Lunae 1. die Feb. 1696.</date>
+               </dateline> 
+Ordered,</opener>
+            <p>THat the Thanks of this Houſe be given to Doctor
+<hi>Lancaſter,</hi> for the Sermon by him Preached before them, upon
+<hi>Saturday</hi> laſt, at St. <hi>Margaret</hi>'s <hi>Weſtminſter.</hi>
+And that he be deſired to Print the ſame, and that M<hi rend="sup">r</hi> 
+               <hi>Robert
+Berty</hi> and M<hi rend="sup">r</hi> 
+               <hi>Drake</hi> do acquaint him therewith.</p>
+            <closer>
+               <signed>
+                  <hi>Paul Jodrell,</hi> Cl. Dom.
+Com.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:97331:1" rendition="simple:additions"/>
+            <p>A SERMON PREACHED Before the Honourable Houſe of Commons, AT S<hi rend="sup">t</hi>
+               <hi>Margaret</hi>'s <hi>Weſtminſter,</hi> On the 30<hi rend="sup">th</hi> of
+<hi>January,</hi> 1696/7.</p>
+            <p>By <hi>WILLIAM LANCASTER,</hi> D.D. Vicar of S. <hi>Martin</hi>'s
+<hi>in the Fields.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Walter Kettilby,</hi> at the
+<hi>Biſhop</hi>'s <hi>Head</hi> in St. <hi>Paul</hi>'s Church-Yard, 1697.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:97331:2"/>
+            <pb n="1" facs="tcp:97331:2"/>
+            <head>A SERMON Preached before the Honourable Houſe of
+Commons.</head>
+            <epigraph>
+               <q>
+                  <bibl>LAMENT. V. 16.</bibl> 
+                  <p>The Crown is fallen from our Head; Wo to us, for we have
+ſinned.</p>
+               </q>
+            </epigraph>
+            <p>THE Words are part of <hi>Jeremy</hi>'s Lamen<g ref="char:EOLhyphen"/>tation; and if we
+look into 2 <hi>Chron.</hi> 35.25. We ſhall find that this Lamentation was
+for the Death of King <hi>Joſiah:</hi> The words of that place in
+<hi>Chronicles</hi> are theſe, <hi>And</hi> Jeremiah <hi>lamented for</hi>
+Joſiah, <hi>and all the ſinging men and ſinging women ſpake of</hi>
+Joſiah <hi>in their lamentations to this day; and made them an Ordinance
+in</hi> Iſrael, <hi>and behold they are written in the Lamentations.</hi>
+            </p>
+            <p>From theſe words, I conclude, That the Pro<g ref="char:EOLhyphen"/>phet in this place,
+ſpeaking of the downfall of the Crown, does it with relation to the Death of
+that great and good King: The Chronicle<pb n="2" facs="tcp:97331:3"/>witneſſes, That
+<hi>Jeremy</hi> made Lamentation for him, and that it was contain'd and
+<hi>written in the Lamentations:</hi> And ſince theſe Words of the Prophet
+do ſo well expreſs it, we muſt believe that <hi>Joſiah</hi>'s downfall
+was the occaſion of them. He was a Pattern for all Princes, and the Mourn<g ref="char:EOLhyphen"/>ing
+which was to be in <hi>Judah</hi> and <hi>Jeruſalem</hi> for him, was to be a
+Pattern for all Lamentation.</p>
+            <p>The Prophet <hi>Zechary,</hi> when he foretells the Paſſion
+and dying of our Lord Jeſus upon the Croſs, ſays, There ſhall be ſuch
+mourning for Him as was for <hi>Joſiah;</hi> That <hi>they ſhall look on
+him whom they have pierced:</hi>
+               <note place="margin">
+                  <hi>Zech.</hi> 12.10.</note>
+which S. <hi>John</hi> c. 19. ex<g ref="char:EOLhyphen"/>plains and applies to our Saviour expoſed,
+and wounded, and bleeding upon the Croſs. And then the Prophet adds,
+<hi>v.</hi> 11. That <hi>in that day there ſhall be great mourning in
+Jeruſalem, as the mourning of Hadadrimmon in the valley of Megiddon.</hi> The
+La<g ref="char:EOLhyphen"/>mentation for our Lord, it is here foretold, ſhould be as great as that
+for <hi>Joſiah,</hi> who was ſlain in the Field of Battle at
+<hi>Megiddo;</hi> which ſeems to have been the greateſt Mourning that was
+ever known in <hi>Iſrael.</hi>
+            </p>
+            <p>The words then I have ſufficiently explain'd by ſhewing the
+occaſion of them: and the ſame Hi<g ref="char:EOLhyphen"/>ſtory ſays, That hereupon an
+<hi>Ordinance was made in Iſrael;</hi> and the Book which was written many
+years, at leaſt ſome reigns after <hi>Joſiah</hi>'s Death, ſays, the
+obſervation of that Ordinance was con<g ref="char:EOLhyphen"/>tinued<pb n="3" facs="tcp:97331:3"/>a very long
+time, <hi>They ſpeak of him in their Lamentation to this day.</hi> So that we
+may conclude thus much from that Hiſtory, that when <hi>Joſiah</hi> was
+ſlain, there was in <hi>Iſrael</hi> an Act, an Ordinance, a Law made for a
+ſolemn yearly Mourning for ever.</p>
+            <p>We ſee then, we are now aſſembled by a Law made after a
+Precedent of great Antiquity, and I may add, of much greater Authority. And
+ſince Providence has for our Sins given us the like Oc<g ref="char:EOLhyphen"/>caſion, let us
+implore his merciful Acceptance of the like Mourning and Humiliation; and of
+our Service and Sorrow in Obedience to the Law in our own Nation, made after
+the example of <hi>Iſrael,</hi> and of this Divine Ordinance, wherein the
+Wiſ<g ref="char:EOLhyphen"/>dom of Heaven was moſt immediately concern'd.</p>
+            <p>The Civil Magiſtrate may, by what Rules he pleaſes, enquire
+after Perſons diſaffected, and uneaſy to the Government; but methinks it
+were very natural to ſuſpect all ſuch perſons as dangerous to Kings and
+States, who rejoyce and ſeem to triumph at the fall of one of the beſt of
+Kings; and at the promotion of the worſt of Men and Murderers into his place.
+It cannot be ſafe laughing, when a Nation, upon ſo good reaſon, is
+commanded to be all in Tears; not only leſt God ſhould be angry, whoſe
+Judgments are there<g ref="char:EOLhyphen"/>by deſpiſed; but alſo leſt that Man who can be
+merry upon ſo ſad, and lamentable an occaſion,<pb n="4" facs="tcp:97331:4"/>ſhould
+be thought pleas'd with the publick Sor<g ref="char:EOLhyphen"/>row, and that common Calamity which was
+the cauſe of it.</p>
+            <p>Every Man's experience tells him thus much, that what we are glad
+of, we wiſh may happen frequently; and that occaſion and matter of Joy can
+never come too often: ſo that ſhould the Anniverſary for one Prince's
+Murder be to any Man a day of Joy, I ſhould ſuſpect that Man wiſhes
+more ſuch days as theſe; and that we may have many ſuch reaſons for
+<hi>Jeremy</hi> to lament.</p>
+            <p>On the other hand, what a Man ſorrows, and grieves, and mourns
+for, he wiſhes may never be repeated; and that he may never hear of the like
+again. So that days of Humiliation (as they have ſometimes been ſerviceable
+to Hypocriſie) may ſerve for Politick Ends and Purpoſes, as well as
+Religious; to ſecure Princes from all at<g ref="char:EOLhyphen"/>tempts of cruel and bloody Men, by
+creating an averſion to ſuch barbarous Practices upon them, in the minds of
+all Men.</p>
+            <p>It is very natural for Sorrow and Shame to fill the Mind with
+horror and diſlike of all Events or Actions which cauſed ſorrow; to
+poſ<g ref="char:EOLhyphen"/>ſeſs the Mind with a principle and habitual de<g ref="char:EOLhyphen"/>ſire to prevent
+ſuch Actions for the time to come; and all the Efforts and Endeavours which
+are made towards them.</p>
+            <p>The <hi>Jews</hi> had therefore very good reaſon to 
+<pb n="5" facs="tcp:97331:4"/>make an Ordinance for a yearly Mourning for
+<hi>Joſiah,</hi> as all other States and Governments have upon the like
+occaſion; becauſe ſorrow and af<g ref="char:EOLhyphen"/>fliction for the untimely Death of one
+King, diſpoſes the Mind to Care and Vigilance over the Life and Welfare of
+another. And I think common Charity will teach us to believe, That he who now
+does his dury to God, and is juſt to the Bleſſed Memory of this day's
+Martyr, can do no injury to the State or Perſon of his pre<g ref="char:EOLhyphen"/>ſent
+Succeſſor; nor give way to ſo much as a Thought which may prejudice the
+Intereſt of that Brave Man, who through ſo many Perils, has aſſerted
+the Religion and Honour of the <hi>Engliſh</hi> Nation.</p>
+            <p>We may reckon upon Two ſorts of Men who are avowed Enemies to
+our preſent Conſtitution: The <hi>Firſt</hi> are thoſe little Wretches,
+who yet dare meditate great and Bloody Villanies; and endeavour the Confuſion
+of their own Native Country, by Aſſaſſines, and bringing in upon us a
+Foreign Power. Theſe are not to be neg<g ref="char:EOLhyphen"/>lected, becauſe little; ſince it
+has often been in the power of Wretches, and ſmall things, to do great
+miſchiefs. But,</p>
+            <p>
+               <hi>Secondly,</hi> There are other Enemies who are far more
+powerfull, and who have hit upon the only ſtratagem in the World which can
+undo us: Such are they who endeavour to make God<pb n="6" facs="tcp:97331:5"/>our Enemy;
+and to rob us of his Care and Fa<g ref="char:EOLhyphen"/>vour, to whom alone we owe our Protection and
+Peace. When the Almighty thunders, and when his Judgments are abroad, he
+expects we ſhould tremble and be afraid; and not live as if we ei<g ref="char:EOLhyphen"/>ther defid
+Heaven, and God, and Providence; or did not believe them: Now the taking away
+the moſt Pious and beſt of Kings, by the moſt impious and inhumane
+Practices, and by a Civil War; where Subject was againſt Sovereign, Fa<g ref="char:EOLhyphen"/>ther
+againſt Son, the Bonds of Affection, Friend<g ref="char:EOLhyphen"/>ſhip, Blood and Nature, all
+diſſolv'd, and Hell broke looſe, was certainly a very dreadfull Judg<g ref="char:EOLhyphen"/>ment
+of God upon a People, tho' it were no worſe; and if we be not ſenſible of
+it, God can make us know and underſtand it to our ſor<g ref="char:EOLhyphen"/>row, (which Heaven
+forbid!) by bringing up<g ref="char:EOLhyphen"/>on us again the like Calamity. I ſay, the
+Deſo<g ref="char:EOLhyphen"/>lations which attended the downfall of God's Anointed, will bear
+Witneſs, that God was very Angry; and it is but modeſty in duſt and
+aſhes to humble our ſelves under the ſence of his diſpleaſure.</p>
+            <p>I do not now conſider the Death of King <hi>Charles,</hi> as a
+Sin, much leſs as a Murder, and a Na<g ref="char:EOLhyphen"/>tional Murder, the moſt crying of all
+Sins. Sup<g ref="char:EOLhyphen"/>poſe he had only fallen as <hi>Joſiah</hi> did by a chance Arrow
+from a Bow; or by a Ball or Dart, which reſpects no Perſons, nor has
+ſence to diſtinguiſh<pb n="7" facs="tcp:97331:5"/>betwixt right and wrong; yet were
+it for no other reaſon, but becauſe his Death was one of God's Judgments,
+which are all terrible; and ab<g ref="char:EOLhyphen"/>ſtracting from the Sin and Crime that lie
+heavy upon this Nation; we have ſtill reaſon, as <hi>Ju<g ref="char:EOLhyphen"/>dah</hi> and
+<hi>Jeruſalem</hi> had, to lament; and to con<g ref="char:EOLhyphen"/>tinue our Mourning, as well as
+the Memory of God's Anger and Indignation.</p>
+            <p>Think then who are they that feaſt and re<g ref="char:EOLhyphen"/>joyce; that make this
+a Day of Paſtime and Re<g ref="char:EOLhyphen"/>creation, which the Almighty made a day of Vengeance;
+which the Church has ſet a part for a day of Mourning; which the Law has
+appoint<g ref="char:EOLhyphen"/>ed for a ſolemn Faſt: think again, who are they that provoke God to
+anger, by deſpiſing theſe his Judgments, and ridiculing the Signs and
+To<g ref="char:EOLhyphen"/>kens of his heavy Diſpleaſure; and then ſee if theſe be not the
+Enemies we are moſt in danger of. Theſe are the Men who are to make God our
+Enemy; and when they have done that, it is in vain they boaſt of their
+Fidelity, and of their other Services to this or any Eſtabliſhment. They
+are better men, and better friends to this their Country, who arm Ruffians;
+then they who arm God and Heaven and Providence a<g ref="char:EOLhyphen"/>gainſt us; and who put the
+Sword into the Hand of the deſtroying Angel to undo us. Other Foes may have
+as much Malice; but cannot do half the Miſchief, as they who defy God and his
+<pb n="8" facs="tcp:97331:6"/>Ordinances, are able to do. We fear the ſecret Contrivances
+and Conſpiracies of ill Men at home; we are providing againſt the
+Aſſaults of a crazy Mortal from abroad, and of Forces which could not till
+this Day have ſtood before us, but as our Sins and our Follies had given them
+advantage over us, and kept them up: but there's no fencing nor fighting
+againſt Heaven; if our open defiance of God's Judg<g ref="char:EOLhyphen"/>ments provoke Him to
+puniſh, or to forſake us.</p>
+            <p>And thus I have ſhewn that the taking away a good King, though
+conſider'd only as God's Judgment upon a People, and not their Crime, yet
+ought to be remember'd with the laſt de<g ref="char:EOLhyphen"/>degree of Humiliation; and looked
+upon as a Sign that God was diſpleaſed with that Land, which he made the
+Theatre whereon was ſhed ſo much Innocent Blood. No man ſin'd when
+<hi>Joſiah</hi> was ſlain in Battle; yet the Wiſ<g ref="char:EOLhyphen"/>dom of God and the
+Nation (only becauſe he was kill'd in the Field) made a Law for a yearly
+Mourning for Him, through all future Ages.</p>
+            <p>I now come to Two particular Reaſons which I find in the
+Hiſtory of <hi>Joſiah,</hi> why the people made ſo great, and ſo
+univerſal Lamentation for Him.</p>
+            <p>
+               <hi>Firſt,</hi> A Prince was ſlain in Battle, whoſe
+Clemency, and Goodneſs; and whoſe Zeal for<pb n="9" facs="tcp:97331:6"/>Religion, had
+created Him a general Eſteem and Veneration among all his People.</p>
+            <p>
+               <hi>Secondly,</hi> The <hi>Jews</hi> had reaſon to mourn, and to
+be afflicted, when he dyed; becauſe it was propheſied, that the Calamity of
+that Nati<g ref="char:EOLhyphen"/>on ſhould commence and bear date from the very day
+<hi>Joſiah</hi> ſhould be taken from them.<note place="margin">2
+<hi>Chron.</hi> 34.24,28.</note>
+            </p>
+            <p>
+               <hi>Firſt,</hi> The Firſt Reaſon why the <hi>Jews</hi> made
+ſo great Mourning for <hi>Joſiah,</hi> was, becauſe his Cle<g ref="char:EOLhyphen"/>mency and
+Goodneſs, and his great Piety had got him a general Eſteem and Veneration
+a<g ref="char:EOLhyphen"/>mong his People. <hi>Now the reſt of the acts of</hi> Jo<g ref="char:EOLhyphen"/>ſiah, <hi>and
+his Goodneſs,</hi> or Clemency and Kindneſs, <hi>according to all that is
+written in the Law of the Lord, behold they are in the Book of the
+Kings of Iſrael and Judah.</hi>
+               <note place="margin">2 <hi>Chron.</hi>
+35.26.</note>
+            </p>
+            <p>Here is then an Argument for the Peoples Mourning, and for an
+Ordinance to eſtabliſh a yearly Mourning; becauſe Violence had taken from
+them not only a great Prince, but alſo a very good Man: his Clemency became
+his Pur<g ref="char:EOLhyphen"/>ple; and his Goodneſs or his Graces ſhone brighter than all the
+Jewels in his Crown. He was Religiouſly Good; he was Good out of Principle
+and Conſcience, and not only out of Policy, and in appearance; his
+Goodneſs, or, as the <hi>Hebrew</hi> reads it, his Clemency and Kind<g ref="char:EOLhyphen"/>neſs
+would endure the Touchſtone; for, <hi>it was according to the Law of the
+Lord.</hi>
+            </p>
+            <p>
+               <pb n="10" facs="tcp:97331:7"/>Now this is the true Standard for all Virtue,
+and he who can walk according to this Rule, is a perfect Man. This is a Law
+that is fit to be the Study and Care of Princes; becauſe by it they not only
+hold their Crown and Dignity on Earth, but alſo hope for a more laſting
+Inheri<g ref="char:EOLhyphen"/>tance and Crown in Heaven. No wonder then if goodneſs win upon the
+Hearts and Affections of all the World; for moſt Men are in love with Vertue,
+though few will practiſe it.</p>
+            <p>And therefore a greater thing cannot be ſaid of any Man, nor of
+any King or Prince of the Sons of Men, than that he's good according to God's
+Law: other Excellencies may make a Man great in Imagination, and continue his
+Me<g ref="char:EOLhyphen"/>mory ſo long as Marble will bear his Name; but it is his Goodneſs, and
+this only, that gives him Immortality, and a Name and Honour, that will endure
+for ever.</p>
+            <p>The Hiſtory tells us, That <hi>Joſiah</hi> came very young to
+the Throne; <hi>That he was but Eight Years old when he began to
+reign.</hi>
+               <note place="margin">2 <hi>Chron.</hi> 34.1.</note> He muſt needs at
+that Age want Underſtanding; and Wiſdom, and Experience, and Strength to
+wield the Scepter of that Kingdom; and <hi>Solomon</hi> denoun<g ref="char:EOLhyphen"/>ces <hi>Wo to
+that Land, whoſe King is a Child.</hi>
+               <note place="margin">
+                  <hi>Eccl.</hi>
+10.16.</note> But <hi>Joſiah</hi> made up all theſe Deficiencies, and
+Im<g ref="char:EOLhyphen"/>perfections in Nature, by the early ſupplies of Divine Goodneſs, and of
+Grace. 
+<note place="margin">2 <hi>Chron.</hi> 34.2.</note> During our 
+<pb n="11" facs="tcp:97331:7"/>Minority we are under Tutelage and Govern<g ref="char:EOLhyphen"/>ment of others we
+ſuppoſe, wiſer then our ſelves; and Honeſt as well as able to direct
+and ma<g ref="char:EOLhyphen"/>nage our Affairs; who yet have many failings, at the very beſt; and
+great allowances muſt be made even for their Infirmities: But this young
+Prince choſe for the Guide and Conduct of his Infancy, <hi>the Ancient of
+Days;</hi> and of him to learn Experience, who himſelf knew all things by
+Intuition, and at the firſt ſight. Here we have a Guardian who can defend
+his Charge, and protect his Orphan, againſt the Invaſions and Incroachments
+of his greedy Neighbour: Here is a Counſellor who knows the ſtate of
+Nations, and ſees into all affairs of Princes both Foreign and at Home: He
+knows what's done in this Cabal, in that Cabinet, in the other Conclave; nay.
+He knows the Hearts, and underſtands our Thoughts long before. So that a
+Child, and Infant of a King, under His Conduct, ſhall undermine the
+Counſels of <hi>Achi<g ref="char:EOLhyphen"/>tophel</hi> himſelf.</p>
+            <p>It is ſaid of <hi>Joſiah,</hi> That he choſe <hi>David</hi>
+for his Pattern, whom he would imitate, without going aſide to the right or
+left hand. Now <hi>David</hi> was a glorious Precedent for any Poten<g ref="char:EOLhyphen"/>tate on
+Earth to take Example by: He was great in Arms, and in Religion; admired for
+Courage, and for Devotion: and (to ſatisfie<pb n="12" facs="tcp:97331:8"/>all the World,
+that Religion does not make Cowards) He was therefore Great in the Field,
+becauſe Devout at the Altar, and in the Houſe of God.</p>
+            <p>I ſhall not give any account of the many eminent Vertues either
+of <hi>Joſiah,</hi> or the <hi>Mar<g ref="char:EOLhyphen"/>tyr;</hi> thoſe of the latter which were
+moſt in View and in Exerciſe, were Patience and Perſe<g ref="char:EOLhyphen"/>verance; and it is
+but Melancholy diſcourſing on theſe Vertues, as well as practiſing
+them. They were both of them Zealous for Religion, and for Reforming to the
+True, Ancient and Primitive Way; They both ſtudied to adorn the Temple, and
+to ſerve God in the Beauty of Holineſs: It was their Endeavour to cleanſe
+the Houſe of God from Sordidneſs and Super<g ref="char:EOLhyphen"/>ſtition; and to
+diſtinguiſh it from a Gaol, or a Den of Thieves: And if others had but been
+as Careful to have ſerved Them, as they were Active and Induſtrious to
+ſerve their God; they might have had a much more proſpe<g ref="char:EOLhyphen"/>rous and longer
+Reign, over a far better and far more happy People.</p>
+            <p>And yet it is not to be wonder'd at, That ſo much Vertue and
+Piety, that ſo pure a Zeal for Religion and the Love of God, ſhould
+ſome<g ref="char:EOLhyphen"/>time happen to be utterly over-run and ruin'd by the groſſeſt
+Atheiſm and Hypocriſie, that ever paſs'd upon Mankind. Our
+<hi>Joſiah</hi> was<pb n="13" facs="tcp:97331:8"/>bound up to the ſtricteſt Honour,
+Truth, and Juſtice; and could do nothing which might be a blemiſh to any of
+theſe, though it were to ſave a Kingdom: when as his Enemies were for
+Liberty; and (as their practice explain'd it) were to be confin'd to no Rule or
+Principle; were to be bound by no Law or Promiſe, but to act purely, and
+entirely, as their Intereſt ſhould direct.</p>
+            <p>If a Man make a Conſcience of Truth and Juſtice, then Liberty
+of Conſcience is very good, and men ſeldom want it: but where there is no
+Conſcience, all Men muſt own, that Liberty is very dangerous; it then
+becomes Licentiouſneſs, or a Liberty, ſuch as our Martyr's Enemies made
+their own, and which was allow'd to none be<g ref="char:EOLhyphen"/>ſides, to kill, and to take
+Poſſeſſion; and to wade through the blood of Innocents, to every thing
+they imagined would enrich, honour, or advance them.</p>
+            <p>And thus I have done with my <hi>firſt</hi> Reaſon, why ſo
+great Lamentation for <hi>Joſiah.</hi> He was Religiouſly good; and the
+loſs of ſuch a Prince is hardly to be repaired.</p>
+            <p>
+               <hi>Secondly,</hi> The <hi>Jews</hi> had reaſon to mourn, when
+<hi>Joſiah</hi> dyed; becauſe it was propheſy'd to them, That their
+Calamity and Miſery ſhould commence from the very day that
+<hi>Joſiah</hi> ſhould be taken away from them.</p>
+            <p>
+               <pb n="14" facs="tcp:97331:9"/>It was told them by <hi>Huldah</hi> the
+Propheteſs, That God was very angry with that people, and that he had
+dreadfull Judgments in Reſerve. whereby to puniſh the Obſtinacy of the
+<hi>Jewiſh</hi> Nation: but that for <hi>Joſiah's</hi> ſake, that moſt
+pious and moſt religious Prince, he would not execute his Vengeance ſo long
+as he ſhould live; but would defer his Indignation till that great, good Man
+ſhould be carry'd to his Grave in Peace: that then, and from that time,
+<hi>Iſrael</hi> ſhould be a miſerable and an afflicted People; and a
+hiſſing and an aſtoniſhment to all Nations round about them.</p>
+            <p>According to this Decree revealed to, and foretold them by the
+Propheteſs, all things be<g ref="char:EOLhyphen"/>fell them: <hi>Joſiah</hi>'s Sons and
+Succeſſors were one of them carry'd away by <hi>Necho</hi> King of
+<hi>Egypt;</hi> another was depoſed by the King of <hi>Babylon;</hi> a third
+was taken Priſoner, and judgment given againſt Him; his Sons all ſlain
+before his Eyes, and then his Eyes bored out, that he might ſee no more of
+the Miſery which he was to ſuffer. Now ſince this was all foretold them,
+and that all their temporal Bliſs and Happineſs depended upon the Thred of
+<hi>Joſiah's</hi> life, no wonder they made great Lamentation when he
+dyed.</p>
+            <p>The Ancients reported, that in <hi>Troy</hi> there was an Image,
+which they believed fell from Hea<g ref="char:EOLhyphen"/>ven, which ſo long as they could preſerve
+ſafe<pb n="15" facs="tcp:97331:9"/>within their Walls, would preſerve them
+ſucceſs<g ref="char:EOLhyphen"/>full againſt all Enemies from abroad; but the loſs of it was to
+foretell the Ruin of their City and Civil Government. King <hi>Joſiah</hi>
+was this Image, and gave the ſame ſecurity to <hi>Judah</hi> and
+<hi>Jeruſa<g ref="char:EOLhyphen"/>lem;</hi> and they were well aſſured, that whilſt this
+<hi>Palladium</hi> was among them, no Injury could befall them either from
+Heaven or Earth; for he who is Lord of both, had given his Word for it.</p>
+            <p>He therefore falling in <hi>Megiddo,</hi> cauſed this
+Lamentation among the People; their Peace, their Plenty, their Laws, Religion
+and Lives were all in Danger when he was in Peril, or in the leaſt
+Diſtreſs; all their Glory was caſt down when he fell in Battle; and the
+Arrow that wounded him, went to the Heart of every good Man in his
+Dominions.</p>
+            <p>This is therefore my ſecond Reaſon for ſo great Mourning in
+<hi>Jeruſalem</hi> at that time.</p>
+            <p>Now give me leave to apply theſe Reaſons of <hi>Judah</hi> and
+<hi>Jeruſalem</hi>'s Lamentation for their King, who fell in Battle, and was
+ſlain in the Valley or Plain of <hi>Megiddo.</hi> There was upon it an
+Ordinance, a Law made for a ſolemn Mourning; and it was obſerved even after
+the <hi>Jewiſh</hi> Monarchy was deſtroy'd. I hope our Law of the ſame
+nature, made after that Divine Example, and ordained for the ſame end and 
+<pb n="16" facs="tcp:97331:10"/>purpoſe, may long continue together with the Enghſh
+Monarchy; and even for that very end, that the Monarchy may long endure. The
+<hi>Jews</hi> Mourning for <hi>Joſiah</hi> endured longer then their Kingdom.
+Their yearly Faſt for <hi>Gedaliah,</hi> not<g ref="char:EOLhyphen"/>withſtanding their
+Diſperſion, is religiouſly ob<g ref="char:EOLhyphen"/>ſerved by them to this day; and although
+they are broken and ſcattered abroad in all Nations, and among all Languages;
+yet their Lamentation is continued with one Voice, and one Conſent.</p>
+            <p>It were not hard to make it appear, That we have as great Reaſon
+to continue our Humilia<g ref="char:EOLhyphen"/>tion, as the <hi>Jews</hi> had for <hi>Joſiah:</hi>
+and, may be, it were happy for us if we had not other, and greater Reaſons
+for this day's Solemnity, then the <hi>Jews</hi> had. <hi>Joſiah</hi> was
+ſlain by a foreign Po<g ref="char:EOLhyphen"/>wer: He fell in Battle, and was killed in the heat of
+Blood; Himſelf was in a Diſguiſe, and un<g ref="char:EOLhyphen"/>known; and an Arrow ſhot at
+Random, wound<g ref="char:EOLhyphen"/>ed Him that He dyed: His own People were no way guilty; His Death
+could not be charged upon any of them; nor was their Land put under a Curſe,
+or defiled with Innocent Blood. Let the Armies of <hi>Egypt</hi> and
+<hi>Pharaoh Necho</hi> anſwer for it: <hi>Jeruſalem</hi> and <hi>Judah</hi>
+had no hand in it.</p>
+            <p>
+               <hi>Joſiah</hi> was not murder'd by His own Sub<g ref="char:EOLhyphen"/>jects, nor
+try'd, condemn'd, and executed by<pb n="17" facs="tcp:97331:10"/>Men whom he had patronis'd
+and promoted to Wealth and Honour: <hi>Joſiah</hi> was not brought to the Bar
+or Scaffold, by Men who fought againſt his Perſon by his own
+Commiſſion; nor did he die by the hand of Thieves and Rob<g ref="char:EOLhyphen"/>bers, who, when
+they had ſlain the Heir, divi<g ref="char:EOLhyphen"/>ded among them the Inheritance.
+<hi>Joſiah</hi>'s Ene<g ref="char:EOLhyphen"/>mies were all of them of another Countrey, and had
+never vow'd Duty, nor ſworn Allegiance to him: and ſuch Men may have, by
+the Laws of Nature and Nations, a greater Liberty to invade and make War, then
+Men born and educated in his own Dominions.</p>
+            <p>But then, If the King of <hi>Judah,</hi> only fallen in Battle,
+and ſlain by a foreign Enemy, cauſed ſo general Lamentation, and ſuch
+as was con<g ref="char:EOLhyphen"/>tinued through the Reigns of all the ſucceed<g ref="char:EOLhyphen"/>ing Kings, till the
+<hi>Babyloniſh</hi> Captivity; and which was obſerved even in the time of
+<hi>Cyrus,</hi> and the <hi>Perſian</hi> Monarchy; (as the laſt Chap<g ref="char:EOLhyphen"/>ter of
+2 <hi>Chron.</hi> does ſufficiently evince:) How much greater, and more
+laſting Humiliation ſhould Ours be, who have the Guilt of Inno<g ref="char:EOLhyphen"/>cent Blood
+at our own Doors? A Prince, who was Himſelf all Pity and Compaſſion,
+ſenten<g ref="char:EOLhyphen"/>ced and put to Death by cruel and bloody Men; a King who had been a
+kind Father to his People, worry'd and devour'd by his own Children! here is
+Guilt that may demand Hu<g ref="char:EOLhyphen"/>miliation,<pb n="18" facs="tcp:97331:11"/>till the Day of
+Judgment.</p>
+            <p>The Almighty has ever declared to the World, That the Blood of the
+pooreſt Inno<g ref="char:EOLhyphen"/>cent defiles the Land; and that whole King<g ref="char:EOLhyphen"/>doms and Countries
+have a long time lain under the Curſe and Cry of it. Ancient Wiſe Men
+fill'd their Tragedies, and loaded their Scenes with God's Judgments upon
+Murder; Theatres groaned under the weight of publick Guilt; and Towns and
+Cities felt the Cala<g ref="char:EOLhyphen"/>mity, eſpecially upon the Effuſion of Royal Blood,
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; <hi>Lord,</hi> (ſays
+<hi>Oedipus</hi> in <hi>Sophocles</hi>) <hi>What a ſtorm of Vengeance falls
+upon our City for this King's Blood?</hi> The very Heathen Gods ſeem not to
+have been at reſt, till the Blood of Innocents was atoned for, or revenged;
+and the Saints in Heaven, and Souls of Martyrs now with God, though them
+ſelves all flaming Charity and Love to Man<g ref="char:EOLhyphen"/>kind, yet call for Vengeance upon
+the Earth, for the Innocent Blood that has been ſhed up<g ref="char:EOLhyphen"/>on it. <hi>And I
+ſaw</hi> (ſays S. <hi>John,</hi>)<note place="margin">
+                  <hi>Rev.</hi>
+6.9,10.</note> 
+               <hi>under the Altar, the Souls of them that were ſlain for the
+Word of God.—And they cryed with a loud Voice, ſaying, How long, O
+Lord, holy, and true, doſt thou not judge and avenge our blood on them that
+dwell on the Earth?</hi> So that in Caſe of Blood, even Mercy it ſelf turns
+cruel, and calls for Juſtice, and cannot reſt till it be reveng'd.</p>
+            <p>
+               <pb n="19" facs="tcp:97331:11"/>And now, whether we believe <hi>Moſes</hi>
+or S. <hi>John,</hi> or even <hi>Sophocles</hi> the Tragedian; They all with
+one Voice conclude, That a Drop of Innocent Blood is enough to bring a Deluge
+of Miſery upon a Nation.</p>
+            <p>But who will deny, That Innocent Blood was ſhed as on This Day,
+and in This Land; and not only the Blood of a Man, who had done no harm; but
+under whom we might have enjoy'd both Wealth and Honour; who nouriſhed Arts,
+encouraged Learning, advan<g ref="char:EOLhyphen"/>ced Religion, maintain'd the Peoples Liberties,
+pardon'd great Offenders; and at laſt was be<g ref="char:EOLhyphen"/>tray'd, and put to Death, by
+many of thoſe who had been forgiven by him.</p>
+            <p>All Nations have owned, That Kings are Fa<g ref="char:EOLhyphen"/>thers of their Countrey;
+and the Voice of Ci<g ref="char:EOLhyphen"/>viliz'd and Learned Nations, is the Voice of Nature and of
+God. Now for a Man to mur<g ref="char:EOLhyphen"/>der his own Father, is of all ſins of the worſt
+kind, the very worſt, and moſt clamorous, and cries loudeſt to Heaven for
+Vengeance.</p>
+            <p>In ſhort then, The People had no ſin to an<g ref="char:EOLhyphen"/>ſwer for, when
+<hi>Joſiah</hi> died; and yet they had Mourning by an Ordinance, and by a
+Law: but in our caſe, the People of This Nation ſlew their own Prince, and
+had their Hands dyed in the Blood of their Sovereign; of Him, who by Birth,
+Title, Poſſeſſion, Care, Kindneſs,<pb n="20" facs="tcp:97331:12"/>Courteſie,
+and every thing that could either give or purchaſe Right, was Father of his
+Countrey.</p>
+            <p>It is not very difficult to diſcern how the Almighty has ever
+ſince chaſtiſed and ſcourged This Nation; and how that horrid Murder,
+and Effuſion of Sacred Blood, has been the Cauſe of many publick Calamities
+This Land has ſince groaned under. His Death was accom<g ref="char:EOLhyphen"/>panied with the Blood
+of Thouſands, other great Men; and He went to Heaven with a royal Army of
+Martyrs to attend upon Him. Then it was, That Men's Honeſty was their Crime,
+and Wealth and good Eſtates were to others as bad as Felony. It were
+endleſs to reckon up, how many brave Men were oblig'd to fly for their Lives;
+to pray for Sanctuary, and Protection in a Foreign Land; to take Ser<g ref="char:EOLhyphen"/>vice in
+another Nation, thereby to eſcape a moſt wretched Bondage and Captivity in
+their own Countrey.</p>
+            <p>We have been ever ſince (and may be not without Reaſon) under
+Fears and Jealouſies of a Foreign Religion; even the Bleſſings and Sweets
+of the Reſtauration, were made bitter to us, by the Wormwood and Gall of
+Super<g ref="char:EOLhyphen"/>ſtition infuſed into our Cup; and by the en<g ref="char:EOLhyphen"/>deavours which have been
+uſed to bring our Souls into Bondage. Only the Wiſdom and 
+<pb n="21" facs="tcp:97331:12"/>Goodneſs of Heaven in this mighty Revolu<g ref="char:EOLhyphen"/>tion, we hope,
+may free us from thoſe Appre<g ref="char:EOLhyphen"/>henſions of Superſtition coming in among us,
+the Equivocal Offspring of that otherwiſe happy Reſtauration. But ſtill
+we muſt remember who firſt drove thoſe Kings into a Countrey, where they
+might be taught Superſtition; and that if they had not when young, been
+purſued out of their own Land, they would not have been tempted by the Gods
+of other Kingdoms: if they had been Educated under their own Fa<g ref="char:EOLhyphen"/>ther, in their
+own Countrey, under their own Laws, and ſuffered to breath their own Native
+Air, they might have been zealous Patrons of the Religion and Intereſt of
+their own Nation; and the Miſeries we have laboured under, upon that account,
+will, in a good meaſure, lye at the doors of thoſe, who drove them out of
+the Church, into the Idols Temple.</p>
+            <p>And having thus far aſſign'd, and apply'd the Reaſons of
+<hi>Judah</hi>'s Lamentation; give me leave to ſum up what other things I
+have in<g ref="char:EOLhyphen"/>terwoven with this Diſcourſe. I have ſhewn,</p>
+            <p>
+               <hi>Firſt,</hi> That the downfall of that good King, whom we now
+lament, taking all the Miſeries that did belong to it, from firſt to
+laſt, was a moſt viſible mark of God's Diſpleaſure; and, may be, ſo
+ſevere a Judgment as this Land ne<g ref="char:EOLhyphen"/>ver felt, ſince it was a Nation.</p>
+            <p>
+               <pb n="22" facs="tcp:97331:13"/>
+               <hi>Secondly,</hi> That God's Judgments upon a
+People ought not to be neglected; much leſs, to be made our Paſtime, and
+entertain'd with Raillery and Ri<g ref="char:EOLhyphen"/>dicule. <hi>Solomon</hi> ſays, <hi>God
+ſcorns the ſcorners, and that He will laugh when their Fear
+cometh.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> That the Peoples ſhedding the Blood of their
+Soveraign, was a Publick Crime, as well as a Publick Judgment and Calamity.</p>
+            <p>
+               <hi>Fourthly,</hi> That although the Effuſion of his Innocent
+Blood were no more then a private or a perſonal Crime, or the Sin only of
+thoſe Men who acted in it; yet the puniſhment is Na<g ref="char:EOLhyphen"/>tional, and the Land
+polluted. The Nation is one Body Politick, and the whole muſt anſwer for
+what one or a few Members have done amiſs.</p>
+            <p>
+               <hi>Fifthly,</hi> That the Pollution of the Land with Blood,
+ſubmits the Nation to the Curſe of God, which he has ſaid he will
+ſometimes continue to the third or fourth Generation; and the <hi>Jews</hi>
+when they were ſo vehement for our Lord's dying as a Malefactor, took his
+Blood upon themſelves and their Poſterity.</p>
+            <p>I come now to the laſt thing I am to ſpeak to, and that
+is,</p>
+            <p>
+               <hi>Secondly,</hi> That He upon whom God's Judgment falls, is not
+always the Perſon who offended, but the Innocent are many times the
+Sufferers, when the Guilty eſcape, and go free. <hi>Joſiah</hi> 
+               <pb n="23" facs="tcp:97331:13"/>loſt his Crown and Life; but it is, <hi>Wo to us, for we
+have ſinned.</hi>
+            </p>
+            <p>Kings have often ſuffered for the Sins of the People; and
+perhaps as often has an In<g ref="char:EOLhyphen"/>nocent Nation been ſcourged and plagued for the
+Sins of their King. For <hi>Firſt, David</hi> num<g ref="char:EOLhyphen"/>ber'd the People, which was
+not their fault; nor was it in their Power to prevent their being reck<g ref="char:EOLhyphen"/>on'd up,
+if the Prince of the People would have it ſo: But the Plague fell upon them
+alone, and not upon the Perſon who had done the Offence. <hi>David</hi> owns
+thus much in the Preſence of God and the Congregation: <hi>It is I that have
+ſinned, Lord, what have theſe ſilly ſheep done? Secondly,</hi> the Son
+of <hi>Jeroboam</hi> dy'd young, or was by God removed out of the way by Death;
+not be<g ref="char:EOLhyphen"/>cauſe He had offended, but becauſe He ſhould not ſee the Evil
+which was to fall upon his Friends and Countrevmen who had. <hi>He only of all
+the Houſe of Jeroboam ſhall go to the Grave in Peace, becauſe in him was
+found ſome good.</hi> His good<g ref="char:EOLhyphen"/>neſs ſhorten'd his days; He was early ripe
+for Heaven and for Eternity, as the reſt of his Fa<g ref="char:EOLhyphen"/>mily were for
+deſtruction: Yet this young Prince did not loſe a Crown, which he might
+have come to by ſlow ways of Succeſſion and of In<g ref="char:EOLhyphen"/>heritance; but was
+haſten'd and tranſlated to a Crown that is Immortal.</p>
+            <p>This young Son of <hi>Jeroboam,</hi> it is ſaid, went 
+<pb n="24" facs="tcp:97331:14"/>down to the Grave in Peace. I would here ſtop a little to
+enquire what is meant by a Man's going to the Grave in Peace. Is it to live as
+long as the Courſe of Nature will allow? Is it to wear well for Threeſcore
+Years and Ten, and then to dye an eaſy and a Natural Death? and the Lamp of
+Life to go out purely for want of Oil? No, far otherwiſe. It is ſaid of
+<hi>Joſiah,</hi> that He ſhould go to the Grave in Peace. <hi>Behold I will
+gather Thee to thy Fathers, and Thou ſhalt be gathered to thy Grave in
+Peace.</hi>
+               <note place="margin">2 <hi>Chr.</hi> 34.28.</note> Now I have already
+ſhewn, That <hi>Joſiah</hi> was mortally wound<g ref="char:EOLhyphen"/>ed at <hi>Megiddo,</hi> and
+fell in Battle: and how can ſuch a Man who is defeated, and dyes in War, be
+ſaid to go to the Grave in Peace? And yet <hi>Joſiah</hi> who fell by the
+Hand of an <hi>Egyptian;</hi> and <hi>Jeroboam's</hi> Son, who was cut off by
+Death in the moſt flouriſhing ſtate of life: I ſay they both went to
+the Grave in Peace.</p>
+            <p>Now to dye, or go to the Grave in Peace, does not reſpect the
+kinds of Death, whether in Battle or on a Scaffold, or of old Age, and in a
+Man's Bed: but it regards the Perſon who dyes; and that Temper and
+Chearfulneſs and quiet of Mind wherein a man dyes. He then dyes in Peace,
+whom Outrages and Indignities can<g ref="char:EOLhyphen"/>not provoke to Anger; and whoſe Patience
+re<g ref="char:EOLhyphen"/>remains unſhaken, when the Storms and Waves of Sorrow beat hardeſt upon
+Him. He dyes in<pb n="25" facs="tcp:97331:14"/>Peace, who reſigns his own Will to the
+Will and Pleaſure of him who made him; and wel<g ref="char:EOLhyphen"/>comes the moſt painful or
+ſhameful way of Dying, as the ready way to Immortality and Eternal Life: Thus
+dyed <hi>Joſiah,</hi> though he fell in Battle; and thus fell the Royal
+Martyr, though Murder'd in the face of the Sun, and his own Subjects. How he
+went to the Grave, it is not known; the Graves of <hi>Moſes</hi> and of King
+<hi>Charles</hi> being concealed by the Will of God to this day.</p>
+            <p>I confeſs, there's one Reaſon why Martyrs ſhould not ſo
+much be ſaid to die in Peace, as they who die in Battle, or in their Bed;
+be<g ref="char:EOLhyphen"/>cauſe tho' they go out of the World with a calm and quiet Mind, yet their
+Blood calling for Vengeance, ſeems to declare War: But in all other
+reſpects, Men who die for Religion, and patiently ſuffer in a good Cauſe,
+though ſawn aſunder, or torn with wild Horſes, and devour'd by Birds or
+Beaſts of the Field, may very well be ſaid to go to the Grave in Peace.</p>
+            <p>It is very true, that Sorrow, and Suffering, and Death, did all
+come into the World to<g ref="char:EOLhyphen"/>gether, and were occaſioned by the ſin of Man; and
+are all of them continued as Scourges and Judgments of God upon Man for ſin.
+The Al<g ref="char:EOLhyphen"/>mighty has but one Arrow in his Quiver ſhar<g ref="char:EOLhyphen"/>per<pb n="26" facs="tcp:97331:15"/>than theſe; and that he ſends among us, when he puniſhes ſin
+with ſin; when he ſuffers ill Men to harden in Impenitence, to encreaſe
+their Guilt, and thereby conſigns them over to Damnation. This is the moſt
+dreadful, and amazing Judgment of God upon Earth, to leave a Man to a reprobate
+ſence, and hard heart, and on this ſide the Grave and Hell, without all
+hopes of Redemption.</p>
+            <p>I know not but there may be Men in the World, thus left to
+themſelves; who inſtead of repenting of a moſt horrid Murder, and of
+ſhedding Innocent Blood, have themſelves and their Poſterity, juſtified
+the doing it, and ad<g ref="char:EOLhyphen"/>vanced from the Blood of one King, to main<g ref="char:EOLhyphen"/>tain the
+Lawfulneſs of reſiſting all Kings. To ſin, is not ſo great a fault,
+as to vindicate and maintain the lawfulneſs of committing Sin; we are all
+ſinners, but hope God will give us Grace to repent and amend; and then we are
+again right in his ſight: But to ſhed Innocent Blood, and to juſtify the
+doing it, is what Highway-men, and common Thieves and Rob<g ref="char:EOLhyphen"/>bers will not do.</p>
+            <p>Now Reſiſting is a comprehenſive Word, and includes in it
+reviling and ſtandering, de<g ref="char:EOLhyphen"/>poſing and putting to Death; and that, what way
+you pleaſe, whether by Ponyard or Piſtol,<pb n="27" facs="tcp:97331:15"/>on an open
+Theatre, or by Aſſaſſines in the High-Way. Any, or all of theſe are
+Law<g ref="char:EOLhyphen"/>ful to as many as believe it Lawful to Re<g ref="char:EOLhyphen"/>ſiſt.</p>
+            <p>Do but then think, Who are they that have been plotting againſt
+the Lord's Anointed? Who have been engaged in Conſpiracies to murder him in
+ſecret, and by ſurpriſe? Who have been in Conſult and Intriguing with a
+Foreign Enemy to invade us; and upon what bottom all this mighty proceſs has
+been form'd and founded, but upon this helliſh Principle, That it is Lawful
+to reſiſt. Our Prince is hereby in as much danger in his Palace, or in his
+Bed, as formerly in a Battle; and his very Recreations may be as perilous, as
+when he ſtorms a Caſtle, or takes a Town. We have heard of theſe mens
+Crimes, and ſometimes of their Abſolution, but not a word of any pub<g ref="char:EOLhyphen"/>lick
+Repentance for publick Sins; but all go out of the World with a quiet Mind, or
+are only ſorry their Attempts ſucceeded not. Now this can proceed from no
+other Cauſe, but from that ſole Principle and Opinion, That it is Lawful to
+reſiſt; and to embrew their Hands in that Sacred Blood, which has been too
+fre<g ref="char:EOLhyphen"/>quently, and too far expoſed in our Defence.</p>
+            <p>
+               <pb n="28" facs="tcp:97331:16"/>I wiſh that ſort of Men would deal fairly;
+and inſtead of vending among the People thoſe Jeſuitical Notions and
+Speculations, they would go directly to the Prince's Chambers, and tell them
+Him, and give Him timely no<g ref="char:EOLhyphen"/>tice to look to Himſelf; for that they will
+Re<g ref="char:EOLhyphen"/>bell when they pleaſe, and themſelves are the proper Judges of their own
+time.</p>
+            <p>This is the real truth of the matter; and Men who juſtifie
+Reſiſtance, and intend to practiſe it, do not intend to ask the King's
+leave when they go about it; do not wait for an Order of Council, or a Patent
+or Inſtru<g ref="char:EOLhyphen"/>ment under the Broad Seal; but their Conve<g ref="char:EOLhyphen"/>nience is their
+Commiſſion, and they bear their Authority on their Sword's point.</p>
+            <p>Thus, I ſay, God has given ſome Men over to a reprobate Sence,
+and from Murdering one King, to maintain, That all others may be lawfully
+Murder'd. This is ſurely the moſt direful Curſe, that ever happen'd to
+any People, to be given over to Impenitence and a hard Heart; a Man in this
+ſtate, is got within the confines of Hell, even while he lives upon Earth,
+and has gone ſo far within the Gulph, that he cannot return.</p>
+            <p>
+               <hi>Moſes</hi> was once angry, and he repented. <hi>Da<g ref="char:EOLhyphen"/>vid</hi>
+was guilty of Murder and Adultery, and<pb n="29" facs="tcp:97331:16"/>with Tears he
+waſhed off the guilt of Blood, and of Uncleanneſs. S. <hi>Peter</hi> deny'd
+his Lord, and wept bitterly: Nay, <hi>Judas</hi> made ſome ſort of
+Confeſſion, and ſeemed to be ſorry, when he returned the Money which
+was the Price of Blood: <hi>Judas</hi> himſelf never betray'd and
+reſiſted, and taught others to reſiſt: ſo that this is one degree
+above his Crime, and will be puniſhed in a place below him.</p>
+            <p>Men of no Religion, and who have written in behalf of a Liberty, I
+had almoſt ſaid, in behalf of an Indifferency of all Religions; yet have
+thought fit to own, That Principles not conſiſtent with the repoſe, and
+quiet, and ſecu<g ref="char:EOLhyphen"/>rity of Government, ought not to be tole<g ref="char:EOLhyphen"/>rated or endured.
+Now Men who teach and juſtifie the Lawfulneſs of reſiſting Kings,
+main<g ref="char:EOLhyphen"/>tain all Principles of Confuſion, in one word.</p>
+            <p>For, <hi>Firſt,</hi> It will be hard to diſtinguiſh be<g ref="char:EOLhyphen"/>tween
+Reſiſtance and Rebellion; they are Twins, ſo very like each other, that
+without ſome nicety in Metaphyſicks, a Man would miſtake them for one and
+the ſame thing.</p>
+            <p>
+               <hi>Secondly,</hi> If a Man may Lawfully reſiſt, no man can
+Lawfully hinder Him, or put a ſtop to his Reſiſtance: for what has any
+man to do to hinder or moleſt me, when I am doing a Lawful thing? I am then
+about my Lawful Employment.</p>
+            <p>
+               <pb n="30" facs="tcp:97331:17"/>
+               <hi>Thirdly,</hi> If Reſiſtance be
+lawfull, and men do<g ref="char:EOLhyphen"/>ing lawfull Actions, are not to be hindered or moleſted;
+be ſure upon that account they cannot lawfully be puniſhed: and then all
+Treaſons may go on and proſper.</p>
+            <p>And now as we are bound to pray for Kings and all in Authority;
+ſo it is no leſs our Duty to teach ſuch Doctrines as may ſecure to them
+the Poſſeſſion of that Power and Soveraignty they have over us, and the
+Duty and Allegeance we owe them as God's Miniſters for our good. It is not
+Affection alone, nor is it Principle alone, that renders Kings ſafe in the
+Enjoyment of their Crown and Dignity: Principle may be too weak, when Affection
+is loſt and gone; and Affection for a Prince without Principle too, is but
+mutable and uncertain; our Love is apt to vary and change; and Affection goes
+with Intereſt, and turns with it; but when Af<g ref="char:EOLhyphen"/>fection for a Prince, and a
+Principle of Con<g ref="char:EOLhyphen"/>ſcience are joyn'd and united, they make a Bond that will
+hold a <hi>Sampſon,</hi> and which the ſtrongeſt Man cannot break.</p>
+            <p>But to conclude.</p>
+            <p>
+               <hi>Firſt,</hi> Our Law and our publick Prayers com<g ref="char:EOLhyphen"/>plain of a
+Murder committed as on This Day, and of the ſhedding Royal Blood: Let us
+mourn and ſorrow for it, though as to our ſelves we had no 
+<pb n="31" facs="tcp:97331:17"/>hand in it, (the Heart muſt grieve for what the hand
+does) and thereby we ſhall teſtify to all the World, That although there is
+upon our Land the Guilt of Blood; yet we are not thoſe Sa<g ref="char:EOLhyphen"/>vages that delight
+in Blood.</p>
+            <p>
+               <hi>Secondly,</hi> God in his Juſtice took away
+<hi>Jo<g ref="char:EOLhyphen"/>ſiah;</hi> and He frequently takes away good Kings, when the ſins of
+the People tempt and provoke Him to it; He has hitherto been gracious to us,
+and deliver'd our Soveraign both from hid<g ref="char:EOLhyphen"/>den Conſpiracies, and open
+Violence; and has been his Defence, when thouſands have fallen at his Right
+and Left Hand. Let us not by our Sins tempt God to take from us that
+Bleſſing we enjoy in Him.</p>
+            <p>
+               <hi>Thirdly,</hi> The <hi>Jews</hi> had their Temple and City
+<hi>Jeruſalem</hi> deſtroy'd, and themſelves carried away Captive, after
+the Death of <hi>Joſiah:</hi> think you they were Sinners above others? I
+tell you nay. The ſame People of God the <hi>Jews</hi> for the Murder of our
+Saviour, were above Forty years afterwards finally ruin'd, they and their
+Children: think ye they were Sinners above o<g ref="char:EOLhyphen"/>thers? I tell you nay. We know
+what follows.</p>
+            <p>Here is likewiſe the Cry of Innocent Blood at this day; and we
+cannot preſume that we have yet ſhed Tears enough to waſh off the ſtain
+and pollution from our Land; but that Poſterity<pb n="32" facs="tcp:97331:18" rendition="simple:additions"/>and
+Childrens Children may mourn under the Curſe and Cry of it. <hi>Wo to
+us,</hi> &amp;c.</p>
+            <p>This is a proper Subject for <hi>Jeremy</hi>'s Lamen<g ref="char:EOLhyphen"/>tation; here
+a man might (with Him) wiſh his Head a Well of Water, and his Eyes a
+Foun<g ref="char:EOLhyphen"/>tain of Tears, to bewail the Miſeries due to ſo ſinfull, ſo
+ungodly, ſo ungovernable a People. <hi>Remember, O Lord, and let not thoſe
+things come upon us which our ſins deſerve. Let not our Inhe<g ref="char:EOLhyphen"/>ritance be
+turned to ſtrangers, nor our Houſes to Aliens who would be Lords over us.
+Spare us, good Lord! Spare thy People! turn away thy Wrath from us, and
+together with all our other Iniquities pardon the Sin of this day, Thou who
+haſt ſhed thine own Blood to ſave us from Sin and from Wrath to
+come.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
